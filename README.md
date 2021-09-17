@@ -2,6 +2,11 @@
 
 ## Projects
 
+[MechaCar Statistical Analysis](https://jilek.github.io/MechaCar_Statistical_Analysis/)
+
++ We analyzed data for AutosRUs’ newest prototype, the MechaCar, which is suffering from production issues that are blocking the manufacturing team’s progress. We helped the data analytics team to review the production data for insights that may help the manufacturing team.
++ Tools: R, tidyverse / dplyr package(s), RStudio
+
 [Flavors of Chocolate Dashboard](https://jilek.github.io/flavors_of_cacao)
 
 + This dashboard helps the user navigate the Kaggle Chocolate Bar Ratings dataset using JavaScript and GeoJSON to highlight manufacturer vs. cocoa origin countries. It presents company URLs for online ordering of artisanal chocolate.
