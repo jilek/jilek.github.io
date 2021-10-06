@@ -1,5 +1,8 @@
 # Bruce Jilek's Public GitHub
-Also see [https://github.com/jilek/](https://github.com/jilek) for more detail.
+
+Also see 
+- [https://github.com/jilek](https://github.com/jilek)
+- [https://www.linkedin.com/in/brucejilek](https://www.linkedin.com/in/brucejilek)
 
 ## Projects
 
