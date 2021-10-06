@@ -1,4 +1,5 @@
-# Bruce Jilek's Public GitHub
+# Bruce Jilek's Public GitHub [https://jilek.github.io/](https://jilek.github.io)
+Also see [https://github.com/jilek/](https://github.com/jilek) for more detail.
 
 ## Projects
 
