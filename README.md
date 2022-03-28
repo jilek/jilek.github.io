@@ -1,6 +1,6 @@
 # Bruce Jilek's Public GitHub
 
-Also see 
+Also see
 - [https://github.com/jilek](https://github.com/jilek)
 - [https://www.linkedin.com/in/brucejilek](https://www.linkedin.com/in/brucejilek)
 
@@ -34,6 +34,11 @@ Also see
 [Earthquakes](https://jilek.github.io/Earthquakes_past7days)
 + This project does a web scrape of the usgs.gov website to plot global earthquakes during the last seven days.
 + Tools: JavaScript, GeoJSON, D3, Leaflet, Mapbox, OpenStreetMap
+
+[BellyButton](https://github.com/jilek/BellyButton)
+
++ This project creates a dashboard showing various analyses from a study of bacteria in the human belly button.
++ Tools: JavaScript, Bootstrap, Plotly, D3, JSON
 
 [iPhone Forensics](https://jilek.github.io/iPhone_Forensics)
 
