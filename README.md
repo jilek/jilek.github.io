@@ -35,7 +35,7 @@ Also see
 + This project does a web scrape of the usgs.gov website to plot global earthquakes during the last seven days.
 + Tools: JavaScript, GeoJSON, D3, Leaflet, Mapbox, OpenStreetMap
 
-[BellyButton](https://github.com/jilek/BellyButton)
+[BellyButton](https://jilek.github.io/BellyButton)
 
 + This project creates a dashboard showing various analyses from a study of bacteria in the human belly button.
 + Tools: JavaScript, Bootstrap, Plotly, D3, JSON
